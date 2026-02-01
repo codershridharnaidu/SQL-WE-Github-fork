@@ -3,6 +3,11 @@
 # Eat 
 # sleep 
 # Play 
+# 10 lines
+
+# Krishna
+
+Work, play, and enjoy
 # 10 lines 
 
 // poonam adwani
@@ -11,6 +16,7 @@
 #clone
 
 =======
+# 10 lines 
 
 # Hello !!
 # Shreya
@@ -18,4 +24,8 @@
 #enjoy
 #travel
 # hello updated
+
+
+#Krishna
+eat, sleep, play, enjoy
 # adding more lines
